@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d2d8397-52ba-4d77-9f97-94674454cc2e" name="变更" comment="变更" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/LC_Algorithm" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/DynamicPro/Fibonacci/Pra03.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Lantz2023/OctoberPra/Pra03.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Lantz2023/OctoberPra/Pra07.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VJvYNdJFTYoLp0FhYIann7MopK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/IntelliJ IDEA/JavaProjects/Algorithm20230913",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Lantz.OctoberPra" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.Lantz.December" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.Lantz2023.December.Pra02">
+    <configuration name="Pra02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lantz2024.January.Pra02" />
+      <module name="Algorithm20230913" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lantz2024.January.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pra06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lantz2024.January.Pra06" />
+      <module name="Algorithm20230913" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lantz2024.January.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pra08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lantz2024.Krahets2023.Pra08" />
+      <module name="Algorithm20230913" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lantz2024.Krahets2023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.Lantz2023.December.Pra02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lantz2023.December.Pra02" />
+      <module name="Algorithm20230913" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lantz.December.Solution" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.Lantz2023.November.Pra06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lantz2023.November.Pra06" />
+      <module name="Algorithm20230913" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lantz2023.November.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pra06" />
+        <item itemvalue="Application.Pra02" />
+        <item itemvalue="Application.com.Lantz2023.December.Pra02" />
+        <item itemvalue="Application.com.Lantz2023.November.Pra06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8d2d8397-52ba-4d77-9f97-94674454cc2e" name="变更" comment="" />
+      <created>1694567045624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694567045624</updated>
+      <workItem from="1694567047511" duration="5897000" />
+      <workItem from="1694923588788" duration="994000" />
+      <workItem from="1695392666289" duration="2408000" />
+      <workItem from="1695475552516" duration="3763000" />
+      <workItem from="1695540954769" duration="658000" />
+      <workItem from="1695715432017" duration="5690000" />
+      <workItem from="1695985434860" duration="31000" />
+      <workItem from="1696430768735" duration="4165000" />
+      <workItem from="1696469885560" duration="26000" />
+      <workItem from="1696688506949" duration="3164000" />
+      <workItem from="1696777530004" duration="5930000" />
+      <workItem from="1696818130040" duration="3619000" />
+      <workItem from="1696944951001" duration="4791000" />
+      <workItem from="1697036937345" duration="6803000" />
+      <workItem from="1697167626324" duration="18557000" />
+      <workItem from="1697415248493" duration="10968000" />
+      <workItem from="1697769578886" duration="3776000" />
+      <workItem from="1697801550839" duration="10000" />
+      <workItem from="1697801576975" duration="1671000" />
+      <workItem from="1697807024082" duration="7072000" />
+      <workItem from="1697947118826" duration="103000" />
+      <workItem from="1697947259935" duration="258000" />
+      <workItem from="1697978935519" duration="10404000" />
+      <workItem from="1698150744722" duration="79000" />
+      <workItem from="1698156096497" duration="15929000" />
+      <workItem from="1698419246308" duration="1199000" />
+      <workItem from="1698478985587" duration="681000" />
+      <workItem from="1698545524893" duration="1839000" />
+      <workItem from="1698624014545" duration="5498000" />
+      <workItem from="1698844208535" duration="10221000" />
+      <workItem from="1699023530550" duration="3364000" />
+      <workItem from="1699229683970" duration="5475000" />
+      <workItem from="1699280456202" duration="4664000" />
+      <workItem from="1699585440421" duration="946000" />
+      <workItem from="1699688942521" duration="830000" />
+      <workItem from="1699838137536" duration="4190000" />
+      <workItem from="1699971279921" duration="1949000" />
+      <workItem from="1700039827803" duration="685000" />
+      <workItem from="1700189878909" duration="4464000" />
+      <workItem from="1700229290954" duration="4334000" />
+      <workItem from="1700359043376" duration="850000" />
+      <workItem from="1700362309401" duration="1218000" />
+      <workItem from="1700400165145" duration="7766000" />
+      <workItem from="1700446367572" duration="2155000" />
+      <workItem from="1700448693294" duration="44000" />
+      <workItem from="1700491632337" duration="1285000" />
+      <workItem from="1700666028553" duration="1586000" />
+      <workItem from="1700750004445" duration="1300000" />
+      <workItem from="1700791942105" duration="995000" />
+      <workItem from="1700874324609" duration="8876000" />
+      <workItem from="1700904399067" duration="175000" />
+      <workItem from="1701217192260" duration="477000" />
+      <workItem from="1701571889465" duration="1521000" />
+      <workItem from="1701615459882" duration="7685000" />
+      <workItem from="1701852612753" duration="5037000" />
+      <workItem from="1702391474465" duration="1533000" />
+      <workItem from="1702733617656" duration="7455000" />
+      <workItem from="1702777405993" duration="4392000" />
+      <workItem from="1702910125803" duration="1315000" />
+      <workItem from="1703169886537" duration="8271000" />
+      <workItem from="1703297652780" duration="28000" />
+      <workItem from="1703297959082" duration="4000000" />
+      <workItem from="1703680614667" duration="2960000" />
+      <workItem from="1703774394548" duration="2369000" />
+      <workItem from="1703856900780" duration="1894000" />
+      <workItem from="1703989703469" duration="12000" />
+      <workItem from="1703991897868" duration="2017000" />
+      <workItem from="1704203340338" duration="952000" />
+      <workItem from="1704438808514" duration="1416000" />
+      <workItem from="1704524173933" duration="795000" />
+      <workItem from="1704589122928" duration="2545000" />
+      <workItem from="1704682891385" duration="14000" />
+      <workItem from="1704853363101" duration="2626000" />
+      <workItem from="1704941534671" duration="72000" />
+      <workItem from="1705306351135" duration="659000" />
+      <workItem from="1705457212843" duration="348000" />
+      <workItem from="1705465630815" duration="3199000" />
+      <workItem from="1705564337704" duration="86000" />
+      <workItem from="1705630878898" duration="2307000" />
+      <workItem from="1705974633155" duration="2442000" />
+      <workItem from="1706149514921" duration="2891000" />
+      <workItem from="1706235288565" duration="74000" />
+      <workItem from="1706250264199" duration="1064000" />
+      <workItem from="1706367113825" duration="670000" />
+      <workItem from="1706408952754" duration="124000" />
+      <workItem from="1706543045251" duration="693000" />
+      <workItem from="1706622413575" duration="2451000" />
+      <workItem from="1706678914031" duration="57000" />
+      <workItem from="1706798947612" duration="1742000" />
+      <workItem from="1706970289021" duration="291000" />
+      <workItem from="1706975307918" duration="69000" />
+      <workItem from="1707018808928" duration="56000" />
+      <workItem from="1707118488901" duration="1249000" />
+      <workItem from="1707212685603" duration="1097000" />
+      <workItem from="1707316911802" duration="1523000" />
+      <workItem from="1707361326364" duration="31000" />
+      <workItem from="1707403048398" duration="2429000" />
+      <workItem from="1707480286776" duration="1705000" />
+      <workItem from="1707563661051" duration="9000" />
+      <workItem from="1707575359138" duration="33000" />
+      <workItem from="1707664338748" duration="857000" />
+      <workItem from="1707699649187" duration="1566000" />
+      <workItem from="1707881240745" duration="1580000" />
+      <workItem from="1707960485549" duration="1718000" />
+      <workItem from="1708047356053" duration="1842000" />
+      <workItem from="1708134374686" duration="3693000" />
+      <workItem from="1708220223701" duration="3021000" />
+      <workItem from="1708269513020" duration="1773000" />
+      <workItem from="1708305658565" duration="948000" />
+      <workItem from="1708392906279" duration="2298000" />
+      <workItem from="1708478107323" duration="4916000" />
+      <workItem from="1708571033946" duration="837000" />
+      <workItem from="1708654660045" duration="2505000" />
+      <workItem from="1708743269942" duration="2170000" />
+      <workItem from="1708851335144" duration="1627000" />
+      <workItem from="1708929798494" duration="2800000" />
+      <workItem from="1709017635910" duration="1431000" />
+      <workItem from="1709105918946" duration="527000" />
+      <workItem from="1709169824383" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Lantz2023/November/Pra04.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Lantz2023/November/Pra04.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="words" language="JAVA" />
+        <watch expression="c" />
+        <watch expression="c" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm20230913$Pra09.ic" NAME="Pra09 Coverage Results" MODIFIED="1698245023278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Lantz.OctoberPra.*</FILTER>
+    </SUITE>
+  </component>
+</project>
